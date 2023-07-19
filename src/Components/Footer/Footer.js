@@ -20,7 +20,7 @@ const Footer = () => {
 
             <ul className='social_icon'>
                 <li><a href="https://www.facebook.com/joy.kundu.12327/"><MdFacebook className='footer_icon' /></a></li>
-                <li><a href="https://www.linkedin.com/in/jk-joy-510763280/"><IoLogoLinkedin className='footer_icon' /></a></li>
+                <li><a href="https://www.linkedin.com/in/joy-kundu-521408284/"><IoLogoLinkedin className='footer_icon' /></a></li>
                 <li><a href="/"><AiFillTwitterCircle className='footer_icon' /></a></li>
                 <li><a href="/"><AiFillInstagram className='footer_icon' /></a></li>
             </ul>
