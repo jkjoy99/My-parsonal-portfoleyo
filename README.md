@@ -1,6 +1,6 @@
 # jkjoy99 Portfolio ....
 
-[GO TO LIVE WEBSITE](https://my-personal-portfolio-joy.netlify.app/#contact).
+
 
 ## Some features 
 * Typing animation.
